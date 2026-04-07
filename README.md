@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I’m Shivam Raj</h1>
-<h3 align="center">Building a Tech Universe: Full-Stack MERN Developer | AI & ML | CS Student ✨</h3>
+<h3 align="center">Crafting Scalable Web Apps | MERN Stack Developer | AI & ML Enthusiast ✨</h3>
 
 # 💫 About Me:
-🎓 CS Enthusiast at Graphic Era Hill University: Exploring the World of Software Development<br>💻 Interested in full-stack web development and AI-powered applications<br>🧩 Regularly practice DSA to strengthen logic and problem-solving skills<br>🔍 Curious about how real-world products are designed, built, and optimized
+🎓  Computer Science student at Dronacharya Group of Institutions, Greater Noida<br>💻 Passionate about building full-stack web applications and AI-powered solutions  <br>🧩 Regularly practice DSA to strengthen logic and problem-solving skills<br>⚡ Always exploring new technologies and turning ideas into impactful projects  
+
 
 
 ## 🌐 Socials:
